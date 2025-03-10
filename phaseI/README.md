@@ -61,7 +61,8 @@ Users value being able to visually check the progress of their chores and how th
 Recommended: Provide a progress bar or checklist for each task so that users can immediately check the tasks they have performed. Incorporate a visual progress check function into the design.
 **Flexible and easy notification function**  
 Users pointed out that the notification function was inconvenient, and there was a problem that it was not clear what to do when they received a notification. In addition, users also expressed an intention to work at their own pace.  
-Recommended: Provide more specific and easy-to-understand notifications so that users can understand the necessary action without opening the app. By concisely indicating the task content in the notification and providing settings that can be customized as needed, stress can be reduced.
+Recommended: Provide more specific and easy-to-understand notifications so that users can understand the necessary action without opening the app. By concisely indicating the task content in the notification and providing settings that can be customized as needed, stress can be reduced.  
+
 **Prioritization and reminder function for chores**  
 **100% of users want a reminder function, and the ability to set the priority of chores is important.**  
 Recommendation: Add a feature that allows users to prioritize chores and provide a feature to send reminders for particularly important tasks. This feature will help users to complete chores efficiently and prevent chores from getting stuck.
