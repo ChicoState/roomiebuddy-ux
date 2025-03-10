@@ -58,7 +58,8 @@ This project is aimed at a household management application for people living to
 ## Conclusions
 **Automatic task assignment and progress visualization**  
 Users value being able to visually check the progress of their chores and how they are progressing, and want to prevent tasks from piling up. A graphical display of progress allows users to see "how much is done" and motivates them.  
-Recommended: Provide a progress bar or checklist for each task so that users can immediately check the tasks they have performed. Incorporate a visual progress check function into the design.
+Recommended: Provide a progress bar or checklist for each task so that users can immediately check the tasks they have performed. Incorporate a visual progress check function into the design.  
+
 **Flexible and easy notification function**  
 Users pointed out that the notification function was inconvenient, and there was a problem that it was not clear what to do when they received a notification. In addition, users also expressed an intention to work at their own pace.  
 Recommended: Provide more specific and easy-to-understand notifications so that users can understand the necessary action without opening the app. By concisely indicating the task content in the notification and providing settings that can be customized as needed, stress can be reduced.  
