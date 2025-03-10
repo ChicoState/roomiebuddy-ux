@@ -7,7 +7,7 @@ This project is aimed at a household management application for people living to
 ### Questionnaires
 Objective: To collect quantitative and qualitative data from a wide range of users to identify common problems and needs regarding household management.  
 Target: Students living together, roommates, family members, etc.  
-Survey format: Online survey (using Google Forms and SurveyMonkey)  
+Survey format: Online survey (using Google Forms)  
 Questions: How household chores are shared, how they are currently managed, what features they would like to see in a household management tool, areas for improvement, etc.
 Distribution: Widely distributed via social media, student groups, online forums, etc.  
 Time required: Respondents can complete the survey in about 10-15 minutes  
