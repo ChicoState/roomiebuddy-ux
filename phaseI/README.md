@@ -87,5 +87,4 @@ It is essential to create a prototype based on the new design recommendations an
 Based on user feedback, we will be required to enhance the notification customization and task prioritization functions. Also, the focus of future work will be to add necessary features while keeping the app interface simple and intuitive.
 
 ## Caveats
-
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+This study has several limitations, and the results should be interpreted with caution. First, the sample was biased toward certain groups, such as students and roommates, and may not reflect the needs of users in other demographics or regions. In addition, because it relied on self-reported data, answers that are in line with social expectations or misremembering may be affected, and the results may not be necessarily accurate. In addition, the survey questions were limited to open-ended questions, and it is possible that in-depth information on user experiences and emotions was not collected sufficiently.
