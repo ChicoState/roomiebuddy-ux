@@ -5,13 +5,13 @@ This project is aimed at a household management application for people living to
 
 ## Methods
 ### Questionnaires
-Objective: To collect quantitative and qualitative data from a wide range of users to identify common problems and needs regarding household management.  
-Target: Students living together, roommates, family members, etc.  
-Survey format: Online survey (using Google Forms)  
-Questions: How household chores are shared, how they are currently managed, what features they would like to see in a household management tool, areas for improvement, etc.
-Distribution: Widely distributed via social media, student groups, online forums, etc.  
-Time required: Respondents can complete the survey in about 10-15 minutes  
-Reproduction: We ensured that other researchers could create surveys with the same questions and format and distribute them in the same way.  
+**Objective**: To collect quantitative and qualitative data from a wide range of users to identify common problems and needs regarding household management.  
+**Target**: Students living together, roommates, family members, etc.  
+**Survey format**: Online survey (using Google Forms)  
+**Questions**: How household chores are shared, how they are currently managed, what features they would like to see in a household management tool, areas for improvement, etc.
+**Distribution**: Widely distributed via social media, student groups, online forums, etc.  
+**Time required**: Respondents can complete the survey in about 10-15 minutes  
+**Reproduction**: We ensured that other researchers could create surveys with the same questions and format and distribute them in the same way.  
 
 ## Findings
 ### Survey Results - Questionnaire Analysis
@@ -57,7 +57,38 @@ Reproduction: We ensured that other researchers could create surveys with the sa
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+1. **Automatic task assignment and progress visualization**
+Users value being able to visually check the progress of their chores and how they are progressing, and want to prevent tasks from piling up. A graphical display of progress allows users to see "how much is done" and motivates them.  
+Recommended: Provide a progress bar or checklist for each task so that users can immediately check the tasks they have performed. Incorporate a visual progress check function into the design.
+2. **Flexible and easy notification function**
+Users pointed out that the notification function was inconvenient, and there was a problem that it was not clear what to do when they received a notification. In addition, users also expressed an intention to work at their own pace.  
+Recommended: Provide more specific and easy-to-understand notifications so that users can understand the necessary action without opening the app. By concisely indicating the task content in the notification and providing settings that can be customized as needed, stress can be reduced.
+3. Prioritization and reminder function for chores  
+**100% of users want a reminder function, and the ability to set the priority of chores is important.**  
+Recommendation: Add a feature that allows users to prioritize chores and provide a feature to send reminders for particularly important tasks. This feature will help users to complete chores efficiently and prevent chores from getting stuck.
+
+4. **Flexible task management and division of labor**
+Users want to do chores at their own pace and would prefer to avoid forced task division or schedules.
+
+Recommendation: Allow users to set tasks flexibly, allowing them the "flexibility" to divide tasks as needed. Also provide an option to randomly or suggest tasks within the app to ensure that chores are assigned fairly.
+
+5. **Easy communication between users**
+Users would like a feature that allows them to easily communicate with family and roommates about the progress and priorities of chores.
+
+Recommendation: Add a feature that allows users to easily exchange messages within the app (e.g., comment function or chat function) to facilitate smooth communication about tasks. This will reduce uncertainties and misunderstandings about the progress of chores and allow for smoother cooperation.
+How this impacts future work
+
+User-centered design:
+
+By incorporating these new design recommendations with a deep understanding of user needs, we can develop an app that is easy to use and efficient. It is especially important to reflect the specific elements that users want, such as task management and progress visualization, and flexible notification functionality.
+
+The need for prototyping and testing:
+
+It is essential to create a prototype based on the new design recommendations and conduct usability testing. We will check the user reaction to the notification functionality and task management flexibility, and verify whether there is room for improvement.
+
+Feature additions and improvements:
+
+Based on user feedback, we will be required to enhance the notification customization and task prioritization functions. Also, the focus of future work will be to add necessary features while keeping the app interface simple and intuitive.
 
 ## Caveats
 
