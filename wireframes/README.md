@@ -11,7 +11,7 @@ Each wireframe is explained below in the context of a common user scenario to sh
 ![Sign In Page](SigninPage.png)
 
 **Purpose:**  
-Serves as the entry point into the app. Users log in with existing credentials or proceed to sign up. This screen lays the groundwork for personalized task and calendar content tied to specific user accounts.
+Serves as the entry point into the app. Users log in with existing credentials or proceed to sign up. 
 
 ---
 
@@ -20,7 +20,16 @@ Serves as the entry point into the app. Users log in with existing credentials o
 ![Home Page](Homepage.png)
 
 **Purpose:**  
-After signing in, users land on the home page. This screen provides a summarized view of their assigned chores, upcoming events, and roommate activity. It functions as the hub for navigation to tasks, calendar, and messaging features.
+After signing in, users land on the home page. This screen provides a summarized view of their assigned chores, upcoming events, and roommate activity. It functions as the hub for navigation to tasks.
+
+---
+
+## Request Page
+![Request Page](Request.png)
+
+**Purpose:**
+Once the "+" is clicked, the user will go to the request page where they can send a request to a specific roommates or all. Then once they click send, they will be transferred to the Task Add Page.
+
 
 ---
 
@@ -29,7 +38,7 @@ After signing in, users land on the home page. This screen provides a summarized
 ![Task Add Page](Taskpage.png)
 
 **Purpose:**  
-Enables users to assign new chores to themselves or roommates. Users can input task details, select priority levels, set deadlines, and designate task ownership. Supports the main user story: *“Assign a chore to Alex for Friday.”*
+Enables users to put a "name" or "purpose" of their request and selection of the date they wanted to begin to end. 
 
 ---
 
@@ -54,17 +63,10 @@ Allows users to customize app behavior, manage notifications, link accounts, and
 ## Scenario Walkthrough: Assigning and Managing a Chore
 
 1. **Sign In Page** – User logs into RoomieBuddy.
-2. **Home Page** – From the dashboard, the user reviews tasks and chooses to add a new one.
-3. **Task Add Page** – The user enters task details ("Take out trash"), assigns it to Alex, and sets the due date for Friday.
-4. **Calendar Page** – The user confirms the task is now visible on the shared weekly view.
-5. **Settings Page** – (Optional) User adjusts notification preferences to get a reminder the day before.
+2. **Home Page** – From the dashboard, the user reviews tasks.
+3. **Request Page** - User will request anything by using the "+" button.
+4. **Task Add Page** – The user enters task details ("Take out trash"), assigns it to Alex, and sets the due date for Friday.
+5. **Calendar Page** – The user confirms the task is now visible on the shared weekly view.
+6. **Settings Page** –  User adjusts notification preferences to get a reminder the day before.
 
----
 
-## Design Insights & Iterations
-
-User feedback during usability testing led to refinements in button labeling and icon clarity—particularly on the Calendar and Task Add pages. Users expressed confusion around some priority indicators, which has been addressed with simplified visual cues. These findings reinforced the need for an intuitive visual language across all wireframes.
-
-If any future iterations modify personas or scenarios, those updates will be reflected in the documentation accordingly.
-
----
