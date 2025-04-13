@@ -17,7 +17,7 @@ Serves as the entry point into the app. Users log in with existing credentials o
 
 ## Home Page
 
-![Home Page](HomePage.png)
+![Home Page](Homepage.png)
 
 **Purpose:**  
 After signing in, users land on the home page. This screen provides a summarized view of their assigned chores, upcoming events, and roommate activity. It functions as the hub for navigation to tasks, calendar, and messaging features.
@@ -44,7 +44,7 @@ Displays shared household events and chore schedules in a weekly view. Users can
 
 ## Settings Page
 
-![Settings Page](Setting.png)
+![Settings Page](SettingPage.png)
 
 **Purpose:**  
 Allows users to customize app behavior, manage notifications, link accounts, and adjust shared responsibilities. Includes preferences for reminders, calendar integrations, and roommate permissions.
