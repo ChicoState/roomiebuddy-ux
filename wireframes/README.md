@@ -8,7 +8,7 @@ Each wireframe is explained below in the context of a common user scenario to sh
 
 ## Sign In Page
 
-![Sign In Page](Sign in Page.png)
+![Sign In Page](SigninPage.png)
 
 **Purpose:**  
 Serves as the entry point into the app. Users log in with existing credentials or proceed to sign up. This screen lays the groundwork for personalized task and calendar content tied to specific user accounts.
@@ -17,7 +17,7 @@ Serves as the entry point into the app. Users log in with existing credentials o
 
 ## Home Page
 
-![Home Page](Home Page.png)
+![Home Page](HomePage.png)
 
 **Purpose:**  
 After signing in, users land on the home page. This screen provides a summarized view of their assigned chores, upcoming events, and roommate activity. It functions as the hub for navigation to tasks, calendar, and messaging features.
@@ -26,7 +26,7 @@ After signing in, users land on the home page. This screen provides a summarized
 
 ## Task Add Page
 
-![Task Add Page]Task add page.png)
+![Task Add Page](Taskpage.png)
 
 **Purpose:**  
 Enables users to assign new chores to themselves or roommates. Users can input task details, select priority levels, set deadlines, and designate task ownership. Supports the main user story: *“Assign a chore to Alex for Friday.”*
@@ -35,7 +35,7 @@ Enables users to assign new chores to themselves or roommates. Users can input t
 
 ## Calendar Page
 
-![Calendar Page](Calender page.png)
+![Calendar Page](Calender.png)
 
 **Purpose:**  
 Displays shared household events and chore schedules in a weekly view. Users can quickly visualize deadlines and overlaps. Helps users complete tasks like checking urgent priorities or planning around roommates' availability.
@@ -44,7 +44,7 @@ Displays shared household events and chore schedules in a weekly view. Users can
 
 ## Settings Page
 
-![Settings Page](Setting Page.png)
+![Settings Page](Setting.png)
 
 **Purpose:**  
 Allows users to customize app behavior, manage notifications, link accounts, and adjust shared responsibilities. Includes preferences for reminders, calendar integrations, and roommate permissions.
