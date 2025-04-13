@@ -1,21 +1,107 @@
-# Phase II: Refining interaction and designing wireframes
+# Phase II: Refining Interaction and Designing Wireframes
 
 ## Introduction
 
-!!! Describe the general problem that the project is trying to solve and the focus of this interval of work !!!
+This phase focused on refining RoomieBuddy's interaction design by incorporating structured usability evaluation and feedback collection. Based on insights from Phase I and newly conducted cognitive walkthroughs and user feedback sessions, the goal was to validate core user flows and improve user experience through iterative wireframing. Emphasis was placed on usability aspects such as task effectiveness, learnability, efficiency, satisfaction, and alignment with user mental models.
 
 ## Methods
 
-!!! Describe research methods you used to discover new insights, which explains the purpose of each. Provide enough detail that someone would be able to faithfully reproduce your research. Only include research methods in here, not design documents/techniques/artifacts !!!
+### Usability Testing Procedure
+
+A structured usability test was conducted using a within-subject design. All participants interacted with the same prototype version of RoomieBuddy. Tasks were ordered from least to most complex to avoid early confusion biasing later interactions. The think-aloud protocol was used to gather in-the-moment feedback, and post-task ratings were recorded for satisfaction and clarity evaluation.
+
+### Screening Criteria
+
+Participants met the following requirements:
+
+- 18 years or older  
+- Currently live with at least one roommate or have done so within the past year  
+- Have used at least one productivity or communication app  
+- Comfortable with mobile apps on Android or iOS  
+
+Participants were excluded if they:
+
+- Lived alone without shared responsibilities  
+- Were over 70 or under 16 (except in sibling chore-sharing scenarios)  
+- Had no roommate communication experience  
+- Had not learned English  
+
+## Task Scenarios
+
+Participants completed the following structured task scenarios:
+
+- **Task A: Assign a Chore**  
+  _Goal:_ Assign “Take out trash” to roommate Alex for Friday  
+- **Task B: Complete a Task**  
+  _Goal:_ Mark the task as completed  
+- **Task C: Check Request Priority**  
+  _Goal:_ View which requests are most urgent this week  
+- **Task D: Message a Roommate**  
+  _Goal:_ Send a message about an overdue task  
+- **Task E: Suggest a New Feature**  
+  _Goal:_ Imagine the app has been used for a month, and suggest a new feature  
+
+## Cognitive Walkthroughs from Sean on personas Alex
+
+- Will the user try to achieve the right effect?  
+- Will the user notice that the correct action is available?  
+- Will the user associate the correct action with the desired effect?  
+- If the correct action is performed, will the user see that progress is being made?
+
+## Informal Feedback Collection
+
+Informal user feedback was collected during a software engineering class demo, and UX students
+- What feature do you think is most helpful?  
+- What feature is missing?  
+- Did anything confuse you about the interface?  
+- Would this app reduce misunderstandings in shared living spaces?
 
 ## Findings
 
-!!! For each research method, detail each of the findings to clarify new discoveries of users' needs !!!
+### Task Effectiveness & Learnability
+
+- All users completed Task A successfully, indicating the workflow was intuitive.  
+- For Task C, 3 of 5 users initially misinterpreted the icons used for request, expecting the calendar to show their request input.
+- Task B and Task D were both completed quickly, but in Task D, one student said they were confused.
+
+### Efficiency
+
+- Task B had the shortest average completion time.
+- Task D took the longest, averaging 18 seconds due to navigation uncertainty.  
+- UX students seem to be able to calculate that it will be at most 3–4 clicks per task.
+
+### User Satisfaction
+
+- Most participants rated the interface 4 out of 5 for ease of use and visual clarity.  
+- Chore assignment and task completion features received the most positive feedback.  
+- Multiple student says that RoomieBuddy could be helpful.
+
+### Mental Models & Expectations
+
+- Before interacting, 4 out of 5 users expected to assign chores through a tap-and-hold or drag-and-drop method rather than the current menu-based flow.  
+- For messaging, users expected in-task commenting or direct links from the calendar rather than navigating to a separate tab.
+
+### Feedback for Future Development
+
+Commonly requested additions included:
+
+- Push notifications or quiet-hour reminders  
+- Gamified chore incentives or badges  
+- Monthly allowance tracking and chore value customization  
+- Quick-switch view between personal and shared tasks  
+
+Least liked elements:
+
+- Priority and calendar icons were found to be ambiguous or unintuitive.
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+The evaluations identified key opportunities to enhance usability through improved icon buttons, reducing cognitive load in messaging pathways, and offering more customization in task-related features. Students expressed a need for better integration between chores and communication.
+
 
 ## Caveats
 
-!!! Considerations and/or limitations to the methods you chose and the findings/conclusions drawn from them. In other words, give warnings if there are limitations to your research such as not being able to find enough users of a particular demographic, the methods not being able to expose certain information, assumptions you made, etc. !!!
+- Due to time constraints, participants were limited to a prototype walkthrough without full interactivity.
+- The sample is younger and more tech-savvy than some user personas, which may bias satisfaction results toward faster learnability.  
+- Some cognitive walkthrough insights may vary if tested under real-time household conditions with actual roommates present.
+  
