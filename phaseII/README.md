@@ -96,7 +96,7 @@ Least liked elements:
 
 ## Conclusions
 
-To close the evaluation sessions, participants were asked a set of open-ended reflection questions
+To close the evaluation sessions, participants were asked a set reflection questions
 
 - **What did you like most about the app?**  
   Most users appreciated the simplicity of the interface and the clear flow for chore assignment and task completion. The collaborative task management felt immediately useful for shared living environments.
