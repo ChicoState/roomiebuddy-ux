@@ -96,8 +96,21 @@ Least liked elements:
 
 ## Conclusions
 
-The evaluations identified key opportunities to enhance usability through improved icon buttons, reducing cognitive load in messaging pathways, and offering more customization in task-related features. Students expressed a need for better integration between chores and communication.
+To close the evaluation sessions, participants were asked a set of open-ended reflection questions
 
+- **What did you like most about the app?**  
+  Most users appreciated the simplicity of the interface and the clear flow for chore assignment and task completion. The collaborative task management felt immediately useful for shared living environments.
+
+- **What did you dislike or find confusing?**  
+  The most common points of confusion were related to the task priority indicators and the navigation required to access messaging. Several users expected more visual cues or contextual access points from the task or calendar views.
+
+- **Did anything behave differently than expected?**  
+  Yes — Students have a hard time with the calendar. It's needs to be more clear. 
+
+- **What would make you use this app regularly?**  
+  Participants indicated that features like push notifications, better integration between communication, and task views would make the app more compelling for everyday use.
+
+Thanks to all participants for their valuable feedback and engagement. Your insights will directly inform the next iteration of RoomieBuddy.
 
 ## Caveats
 
