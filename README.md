@@ -6,7 +6,7 @@ A household chore management application designed for people living together: st
 ## UX Team Members
 
 * **Sumomo Okada** - Google survey, Phase I 
-* **Yeng Yang** - Scketch, Persona&Sinario
+* **Yeng Yang** - Sketch, scenarios, Phase II
 
 # User-Centered Design Artifacts
 
