@@ -28,11 +28,11 @@ The first phase of the project focused on understanding the target users, analyz
 
 This usability study evaluated the RoomieBuddy prototype, a mobile app designed to streamline task sharing, communication, and scheduling among roommates. The goal of the study was to assess the app’s effectiveness, efficiency, and alignment with user expectations through direct user interaction and structured task scenarios.
 
-Participants were recruited based on relevant roommate experience and comfort with mobile productivity tools. Using a within-subject design, participants were guided through a series of core tasks, such as assigning chores, completing tasks, checking priority status, messaging a roommate, and suggesting new features. A think-aloud protocol and post-task debriefing were used to gather both behavioral and attitudinal data.
+Participants were recruited based on relevant roommate experience and comfort with mobile productivity tools. Using a design where participants were guided through a series of core tasks, such as assigning chores, completing tasks, checking request status, messaging a roommate, and suggesting new features. A think-aloud protocol and post debriefing were used to gather both behavioral and attitudinal data.
 
 Key findings indicate that users found the app intuitive and visually clear for chore assignment and completion. However, mental model mismatches emerged around navigation for messaging and interpreting task priority icons. Users also expressed a strong desire for more integrated communication features and gamification incentives to enhance engagement.
 
-The results will inform the next iteration of RoomieBuddy, with recommended improvements focused on icon clarity, in-task commenting, and optional chore-tracking enhancements. Overall, participants responded positively and expressed interest in using RoomieBuddy to reduce conflict and improve transparency in shared living spaces.
+The results will inform the next iteration of RoomieBuddy, with recommended improvements focused on icon clarity, in-task commenting, and optional chore-tracking. Overall, participants responded positively and expressed interest in using RoomieBuddy to reduce conflict and improve transparency in shared living spaces.
 
 
 
