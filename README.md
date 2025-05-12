@@ -5,8 +5,8 @@ A household chore management application designed for people living together: st
 
 ## UX Team Members
 
-* **Sumomo Okada** - Google survey, Phase I 
-* **Yeng Yang** - Sketch, scenarios, Phase II
+* **Sumomo Okada** - Google survey, Phase I, Wireframe prototype, phase III
+* **Yeng Yang** - Sketch, scenarios, Phase II, Phase III, UX protocol, wireframe prototype
 
 # User-Centered Design Artifacts
 
@@ -36,12 +36,38 @@ The results will inform the next iteration of RoomieBuddy, with recommended impr
 
 
 
-[Full phase II report](phaseII/)
-
 # Phase III: Prototypes and User Testing
 
-**Executive Summary**
+## Executive Summary
 
-!!!Put phase II Executive Summary here!!!
+- **Objective**: Conduct a formative usability test of the RoomieBuddy prototype to evaluate ease-of-use and identify pain points in core roommate management tasks.
 
-[Full phase III report](phaseIII/)
+- **Participants**: 6 users from a UX class, all with shared living experience but limited exposure to productivity apps.
+
+- **Methodology**:
+  - Think-aloud usability testing
+  - Tasks based on real roommate scenarios
+  - Data captured via observation, timing, and difficulty ratings
+
+- **Key Findings**:
+  - Tasks like team creation, marking tasks complete, and messaging were smooth for most users.
+  - The most confusing task was chore assignment due to unclear iconography (“+” button not labeled).
+  - Participants understood urgency indicators but some icons lacked clarity.
+  - Users varied in how they expected messaging to work, from task vs. people tab.
+
+- **Quantitative Insight**:
+  - Average task difficulty rated between 1–3 across all tasks
+  - Task B (Assign a Chore) received the highest difficulty scores and hesitation
+
+- **Recommendations**:
+  - Clarify chore assignment UI—replace "+" with a labeled “Assign” or “Request” button
+  - Provide clearer feedback when marking a task complete
+  - Simplify icon-based features with onboarding or tooltips
+  - Allow messaging access directly from tasks to match mental models
+
+- **Limitations**:
+  - Small sample group (UX students)
+  - Some prototype functions were non-interactive, possibly skewing perceptions
+
+
+
