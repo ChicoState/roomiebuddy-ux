@@ -115,6 +115,9 @@ Quantitative and qualitative data were recorded in a spreadsheet:
 - **Think-Aloud Limitations**: While helpful, some users struggled to express themselves verbally.
 - **Not the Real App version**: We only observed first use impressions on the protoype, long term usability remains untested on the real app.
 
-  ### Prototype Tested
- [Wireframe Prototype](https://github.com/ChicoState/roomiebuddy-ux/tree/main/wireframes)
+### Prototype Tested
+[Wireframe Prototype](https://github.com/ChicoState/roomiebuddy-ux/tree/main/wireframes)
+
+###UX Protocol
+[View Protocol PDF](https://github.com/ChicoState/roomiebuddy-ux/blob/main/phaseIII/UXProtocolDraft.pdf)
 
