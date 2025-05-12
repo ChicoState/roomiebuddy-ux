@@ -114,10 +114,12 @@ Quantitative and qualitative data were recorded in a spreadsheet:
 - **Prototype Fidelity**: As the prototype was not fully interactive and only prototype in figma, some tasks may not reflect real world use entirely.
 - **Think-Aloud Limitations**: While helpful, some users struggled to express themselves verbally.
 - **Not the Real App version**: We only observed first use impressions on the protoype, long term usability remains untested on the real app.
-
+  
+---
 ### Prototype Tested
 [Wireframe Prototype](https://github.com/ChicoState/roomiebuddy-ux/tree/main/wireframes)
 
-###UX Protocol
+---
+### UX Protocol
 [View Protocol PDF](https://github.com/ChicoState/roomiebuddy-ux/blob/main/phaseIII/UXProtocolDraft.pdf)
 
