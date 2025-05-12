@@ -1,5 +1,6 @@
 ## Phase III: Prototypes and User Testing
 
+
 ### Introduction
 
 RoomieBuddy is an app designed to help people manage shared responsibilities while living with roommates. In this phase, our focus was to evaluate the usability of our working prototype in figma to ensure that users could complete key tasks related to chore assignment, messaging, and prioritization. We conducted a usability test protocol with our UX classmates of 6 participants, who resemble our target audience to uncover areas of confusion and affirm the strengths of our design.
@@ -74,7 +75,7 @@ Each task was selected to test a key usability component:
 - **Task F**: Open ended UX feedback (desirability and future development insights).
 
 Quantitative and qualitative data were recorded in a spreadsheet:  
-📊 [Usability Test Data Spreadsheet](https://docs.google.com/spreadsheets/d/1i63wIDBwGOcV3F_KZQig34oHdfr9GR1yg4_rzfcUsEo/edit?gid=0#gid=0
+[Usability Test Data (.xlsx)](https://github.com/ChicoState/roomiebuddy-ux/blob/main/phaseIII/usability-data-phase3.xlsx)
 ---
 
 ### Findings
@@ -113,3 +114,7 @@ Quantitative and qualitative data were recorded in a spreadsheet:
 - **Prototype Fidelity**: As the prototype was not fully interactive and only prototype in figma, some tasks may not reflect real world use entirely.
 - **Think-Aloud Limitations**: While helpful, some users struggled to express themselves verbally.
 - **Not the Real App version**: We only observed first use impressions on the protoype, long term usability remains untested on the real app.
+
+  ### Prototype Tested
+ [Wireframe Prototype](https://github.com/ChicoState/roomiebuddy-ux/tree/main/wireframes)
+
